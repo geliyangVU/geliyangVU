@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Geli Yang</h1>
 <h3 align="center">A software developer</h3>
 
-- 🔭 I’m currently working on **Django backend**
+- 🔭 I’m currently working on **Distributed URL shorten service**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, K8S**
 
 - 👯 I’m looking to collaborate on [Java Spring projects](https://github.com/geliyangVU/Microservices)
 
