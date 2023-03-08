@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Distributed URL shorten service**
 
-- 🌱 I’m currently learning **Angular, K8S**
+- 🌱 I’m currently learning **Java Multi-threading and concurrent programming**
 
 - 👯 I’m looking to collaborate on [Java Spring projects](https://github.com/geliyangVU/Microservices)
 
