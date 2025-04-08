@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Spring, Express**
 
-- 📫 How to reach me **gyang5@villanova.edu**
+- 📫 How to reach me **gyng2023@gmail.com**
 <p align="left">
 </p>
 
